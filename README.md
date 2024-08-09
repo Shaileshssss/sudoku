@@ -35,3 +35,5 @@ Uses Expo Vector Icons for icons and React Native Stylesheet for styling
 ![Screenshot_20240809_232735](https://github.com/user-attachments/assets/426f2532-29b2-4134-9c6f-9b76bab0e48e)
 ![Screenshot_20240809_231327](https://github.com/user-attachments/assets/7d0b8941-fc81-496e-95db-f947d2312ea7)
 ![Screenshot_20240809_211404](https://github.com/user-attachments/assets/38356bfc-66d3-4fa7-80eb-34cfa2e4e148)
+
+![Screenshot 2024-08-09 215355](https://github.com/user-attachments/assets/2f64bcda-f842-4f89-a093-836eb861bd72)
